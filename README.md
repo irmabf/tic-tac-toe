@@ -3,9 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Tic Tac Toe
 
-  Proyecto del Módulo React-Redux de Keepcoding Mobile VI Master Bootcamp.
+  Tic-Tac-Toe using Reac, Redux, styled components and css grid.
 
-## Uso
+## To run the proyect:
 
 ```
 yarn start

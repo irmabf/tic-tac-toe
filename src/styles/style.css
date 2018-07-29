@@ -1,7 +1,6 @@
 body, html {
   margin: 0;
 }
-
 body {
   font-family: Verdana, serif;
   background-color: #EEEEEE;
@@ -9,24 +8,6 @@ body {
   color: #FFFFFF;
 }
 
-.panel {
-  padding-top: 20px;
-  width: 360px;
-  text-align: center;
-  margin: auto;
-  clear: both;
-}
 
-.grid {
-  width: 400px;
-  height: 400px;
-  margin: 0 auto;
-  background-color: #34495e;
-  color: #fff;
-  border: 6px solid #2c3e50;
-  border-radius: 10px;
-  display: grid;
-  grid-template: repeat(3, 1fr) / repeat(3, 1fr);
-}
 
 
